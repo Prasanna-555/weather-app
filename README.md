@@ -47,7 +47,8 @@ A simple weather application built using **HTML**, **CSS**, and **JavaScript**. 
 
 _Add your app screenshot here_
 
-![Weather App Screenshot](screenshot.png)
+<img width="1331" height="625" alt="image" src="https://github.com/user-attachments/assets/b89de3ea-9ba4-4e3d-946e-0817c275c60f" />
+
 
 ---
 
